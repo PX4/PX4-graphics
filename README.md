@@ -55,12 +55,3 @@ selected checkmarks and radio buttons.
 <br>
 <br>
 
-# Illustrations
-
-<div style="text-align: center;">
-  <img src="https://px4.io/wp-content/uploads/2020/03/ilustrations.png" height="400">
-</div>
-<br>
-Use simple illustrations over detailed ones. Whenever possible, use illustrations that represent the
-most basic idea or concept but sometimes concepts can’t be represented literally so use abstract
-images to convey idea. Usually used being paired with instructional text.
