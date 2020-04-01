@@ -36,8 +36,9 @@ alter, rotate, or modify the logo and don’t use previous versions of the logo.
 
 # Color Palette
 <div style="text-align: center;">
-  <img src="https://px4.io/wp-content/uploads/2020/03/color_palette.png" height="600">
+  <img src="https://px4.io/wp-content/uploads/2020/03/color_palette.png" height="400">
 </div>
+<br>
 *Used to signify states on the website. We use it for buttons, highlights on dropdowns, arrows,
 selected checkmarks and radio buttons.
 <br>
@@ -45,11 +46,11 @@ selected checkmarks and radio buttons.
 
 # Typography
 <div style="text-align: center;">
-  <img src="https://px4.io/wp-content/uploads/2020/03/typography.png" height="600">
+  <img src="https://px4.io/wp-content/uploads/2020/04/typography_0.png" height="400">
 </div>
 <br>
 <div style="text-align: center;">
-  <img src="https://px4.io/wp-content/uploads/2020/03/typography_2.png" height="600">
+  <img src="https://px4.io/wp-content/uploads/2020/04/typography.png" height="400">
 </div>
 
 <br>
