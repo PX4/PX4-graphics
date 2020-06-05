@@ -45,11 +45,12 @@ selected checkmarks and radio buttons.
 
 # Typography
 <div style="text-align: center;">
-  <img src="https://px4.io/wp-content/uploads/2020/03/typography.png" height="600">
+  <img src="https://px4.io/wp-content/uploads/2020/04/typography_0.png" height="400">
 </div>
 <br>
+<br>
 <div style="text-align: center;">
-  <img src="https://px4.io/wp-content/uploads/2020/03/typography_2.png" height="600">
+  <img src="https://px4.io/wp-content/uploads/2020/04/typography.png" height="400">
 </div>
 
 <br>
