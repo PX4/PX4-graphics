@@ -26,7 +26,6 @@ be the size of the 4 in the logo.
 <br>
 <div style="display: inline-block">
   <img src="https://px4.io/wp-content/uploads/2020/03/do_use_white.png" height="125">
-  <img src="https://px4.io/wp-content/uploads/2020/03/do_use_this_lockup.png" height="125">
 </div>
 <br>
 Only show the logo in black when we can, but if not then we have to use the logo in white. Don’t
